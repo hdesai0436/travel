@@ -11,9 +11,11 @@
     "postinstall": "flowbite-react patch"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.20.6",
     "flowbite-react": "^0.11.7",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-google-autocomplete": "^2.7.5",
     "react-router-dom": "^7.6.0"
   },
   "devDependencies": {
